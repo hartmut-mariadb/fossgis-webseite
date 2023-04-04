@@ -18,16 +18,17 @@ Die FOSSGIS war als Präsensveranstaltung sehr nachgefragt und hat nach einer la
 Im Programm waren 78 Vorträge, 7 Demosessions, eine Podiumsdiskussion.    
 Die aufgezeichneten Videos sind jeweils beim Programmpunkt verlinkt: https://fossgis-konferenz.de/2023/programm/#Programm23   
 Das Programm war so vielfältig, dass es schwer ist einzelne Punkte herauszuheben.   
-Bemerkenswert sind der Beitrag von Prof. Schneider (Vizepräsident für Forschung an der Humboldt-Universität), der neben Grußworten etwas zur Forschung und Open Science an der HU Berlin erzählt hat sowie der Beitrag zur Berliner Open Source Strategie, vorgestellt durch den Staatssekretär Dr. Kleindiek.   
+Bemerkenswert sind der Beitrag von Prof. Schneider (Vizepräsident für Forschung an der Humboldt-Universität), der neben Grußworten auf Forschung und Open Science an der HU Berlin einging sowie der Beitrag zur Berliner Open Source Strategie, vorgestellt durch den Staatssekretär Dr. Kleindiek.   
 Das im letzten Jahr gestartete Format Podiumsdiskussion konnte auch 2023 erfolgreich umgesetzt werden. Zum Thema "Der schnelle Weg in die digitale Souveränität - öffentliche Ausschreibungen mit FOSS" diskutierten Miriam Seyffarth (Politische Kommunikation Open Source Business Alliance), Enrico Stein (Senatsverwaltung Berlin, GDI Berlin), Victoria Böck (Transformationsmanagerin Citylab Berlin), David Arndt (Teamleitung Geodatentechnik beim Regionalverband Ruhr), Christian Weidner (Kompetenzzentrum öffentliche IT Fraunhofer Fokus) moderiert von Niklas Alt. Link zum Beitrag: https://pretalx.com/fossgis2023/talk/E78Q3Q/.   
-Hervorzuheben ist das beliebte Jeopardy, großartig von Hannes (aka @cartocalypse) und Tobia moderiert, kann hier geschaut werden: https://pretalx.com/fossgis2023/talk/WZBH9Z/.
+Hervorzuheben ist das beliebte Jeopardy, großartig von Hannes Kröger (aka @cartocalypse) und der Gastgeberin Tobia Lakes moderiert, kann hier geschaut werden: https://pretalx.com/fossgis2023/talk/WZBH9Z/.
  
 Es haben 21 Workshops zu verschiedenen Themen stattgefunden, die beliebtesten Themen waren: PostgreSQL/PostGIS, Masterportal in der Praxis, Orchestrierung einer GDI über Docker.
 
-#### Zahlen
+#### FOSSGIS in Zahlen
+Auch bei der Betrachtung einiger Zahlen war die FOSSGIS 2023 recht bemerkenswert.
 Es waren 662 Personen vor Ort und 246 online dabei.   
 Am Welcome Desk wurden 650 Programmhefte und Taschen verteilt. Die Teilnehmenden haben 1.019 Mittagessen gegessen, 3.416 Tassen Kaffee getrunken sowie ca. 1.700 Bagel gegessen
-Zur Abendveranstaltung und beim Sektempfang wurden 60 Flaschen Sekt, 40 Flaschen Mate, 48 Flschen Wein sowie unzählige Flaschen Bier, Saft und Wasser getrunken.   
+Zur Abendveranstaltung und beim Sektempfang wurden 60 Flaschen Sekt, 40 Flaschen Mate, 48 Flaschen Wein sowie unzählige Flaschen Bier, Saft und Wasser getrunken.   
 24 Sponsoren haben die Konferenz finanziell unterstützt. 13 Ausstellerstände wurden von Firmen, die im Thema FOSS und GIS und Open Data unterwegs sind bespielt.   
 70 Helfende haben zur gelingenden Durchführung beigetragen.   
 Der FOSSGIS e.V. hat 12 neue Vereins-Mitglieder gewonnen.
@@ -74,10 +75,10 @@ Hier ein paar Eindrücke.
 *Team Jeopardy FOSSGIS 2023*   
 ![FOSSGIS 2023](/news/images/2023-03-17_FOSSGIS_2023_Hörsaal_Jeopardy_02.JPG "Jeopardy FOSSGIS 2023")   
 *Jeopardy FOSSGIS 2023*    
-![FOSSGIS 2023](/news/images/2023-03-17_FOSSGIS_2023_FOSS4G_01.JPG "Team FOSS4G FOSSGIS 2023")   
-*FOSS4G*   
-![FOSSGIS 2023](/news/images/2023-03-17_FOSSGIS_2023_Team_FOSS4G.jpg "Team FOSS4G FOSSGIS 2023")   
-*Team FOSS4G*
+![FOSSGIS 2023](/news/images/2023-03-17_FOSSGIS_2023_FOSS4G_01.JPG "Team FOSS4G Prizren auf der FOSSGIS 2023")   
+*Join FOSS4G 2023 in Prizren (Kosovo)*   
+![FOSSGIS 2023](/news/images/2023-03-17_FOSSGIS_2023_Team_FOSS4G.jpg "Team FOSS4G Prizren auf der FOSSGIS 2023")   
+*Team FOSS4G Prizren auf der FOSSGIS 2023*
 
 #### FOSSGIS 2024
 Wir freuen uns schon jetzt auf ein Wiedersehen auf der nächsten FOSSGIS. 
